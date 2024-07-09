@@ -2,7 +2,7 @@
 
 ## Screens
 <div>
-  <img src="src/assets/to_readme/Login.png" alt="Login" width="368" style="float: left; margin-right: 10px">
+  <img src="src/assets/to_readme/Login.png" alt="Login" width="368" style="float: left">
   <img src="src/assets/to_readme/Home screen.png" alt="Home screen" width="360" >
 </div>
 
