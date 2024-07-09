@@ -12,7 +12,7 @@ public class User {
     private Long id;
     @Column(length = 50, unique = true)
     private String name;
-    private int age;
+    private int level;
     @OneToOne(cascade = CascadeType.ALL)
     private Account account;
     @OneToOne(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
@@ -54,12 +54,12 @@ public class User {
         this.name = name;
     }
 
-    public int getAge() {
-        return age;
+    public int getLevel() {
+        return level;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setLevel(int age) {
+        this.level = age;
     }
 
     public Profession getProfession() {

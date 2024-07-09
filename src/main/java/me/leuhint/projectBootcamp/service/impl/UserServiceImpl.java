@@ -38,7 +38,7 @@ public class UserServiceImpl implements UserService {
         }
 
         user.setName(userToUpdate.getName());
-        user.setAge(userToUpdate.getAge());
+        user.setLevel(userToUpdate.getLevel());
         user.setAccount(userToUpdate.getAccount());
         user.setPokemon(userToUpdate.getPokemon());
         user.setProfession(userToUpdate.getProfession());
