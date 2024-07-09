@@ -3,7 +3,7 @@
 ## Screens
 <div>
   <img src="src/assets/to_readme/Login.png" alt="Login" width="368" style="float: left">
-  <img src="src/assets/to_readme/Home screen.png" alt="Home screen" width="360" >
+  <img src="src/assets/to_readme/Home screen.png" alt="Home screen" width="368" >
 </div>
 
 ## Diagrama de Classes
