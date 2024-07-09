@@ -1,5 +1,10 @@
 # Santander Bootcamp Project 2024
 
+## Screens
+
+  <img src="src/assets/to_readme/Login.png" alt="Login" width="368" style="float: left; margin-right: 10px">
+  <img src="src/assets/to_readme/Home screen.png" alt="Home screen" width="360">
+
 ## Diagrama de Classes
 
 ```mermaid
