@@ -46,13 +46,3 @@ User "1"-->"1" Account
 User "1"-->"1...n" Pokemon
 User "1"-->"n" News
 User "1"-->"1" Profession
-
-
-
-```mermaid
-  class User {
-    - Long id
-    - String name
-    - int level
-}
-
